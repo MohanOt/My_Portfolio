@@ -30,7 +30,3 @@ Welcome to my personal portfolio website! This project showcases who I am, the t
 - Styled interactive buttons and links
 - Image placeholder for profile photo
 - Easy navigation via sticky header
-
-## 📷 Screenshot
-
-![Portfolio Screenshot](portfolioscreenshot.png)
