@@ -1,35 +1,49 @@
-#  Personal Portfolio Website
+#  My Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases who I am, the technologies I’m learning, my projects, and how to get in touch with me. It was built using only HTML5 and CSS3.
+Welcome to my personal portfolio!  
+This is a beginner-friendly, responsive website built using **HTML** and **CSS** to showcase my journey into software engineering.
 
-##  Live Demo
+##  About Me
 
- [View the Website](https://mohanot.github.io/My_Portfolio/)  
+I'm a passionate and motivated learner currently studying **Python**, **Web Development**, and **Databases** at **PLP Academy**. This is my very first portfolio and my first step into the world of tech!
+
+##  What’s Inside
+
+- **About Section** – A short intro about me and my passion
+- **Skills** – Programming languages and technologies I’m learning
+- **Education** – My academic background with a downloadable CV
+- **Interests** – What excites me in tech
+- **Projects** – Some of my favorite beginner projects
+- **Contact Form** – For anyone who’d like to connect or collaborate
+
+##  Preview
+
+![Screenshot of Portfolio](./portfolioscreenshot.png)
 
 ## 🛠 Built With
 
-- **HTML5** – Structure and content
-- **CSS3** – Styling and animations
-- **Responsive Design** – Mobile-first approach
-- **Custom Animations** – Smooth fade-ins, button hovers, and transitions
+- HTML5
+- CSS3 (Animations & Flexbox)
+- Google Fonts
 
-##  Sections Included
+##  How to Use
 
-- *Home* – Quick intro and call-to-action
-- *About Me* – Who I am, what I do, and my core skills
-- *Downloadable CV* – One-click access to my resume
-- *Programming Languages* – Technologies I use or am learning
-- *Interests* – Topics and areas in tech I’m passionate about
-- *Projects* – Sample work with brief descriptions
-- *Contact Form* – Simple form to reach me
-- *Footer* – Social media and copyright
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+3. Customize text, links, and styles as needed  
+4. Host it using GitHub Pages, Netlify, or Vercel
 
-  ## Portfolio Screenshot
-![Portfolio Screenshot](./portfolioscreenshot.png)
+## 🔗 Live Demo
 
-##  Features
+ [Click to view the live site](https://mohanot.github.io/My_Portfolio)  
 
-- Clean code with comments
-- Styled interactive buttons and links
-- Image placeholder for profile photo
-- Easy navigation via sticky header
+## 📥 Download My CV
+
+You can find the **Download CV** button on the site. Acces my resume with just a click.
+
+---
+
+### Final Note
+
+This is just the beginning. I'm learning, growing, and building.  
+Thanks for checking out my work! 💙
