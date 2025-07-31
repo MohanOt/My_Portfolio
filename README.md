@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am, the t
 
 ##  Live Demo
 
- [View the Website](http://127.0.0.1:5500/index.html)  
+ [View the Website](https://mohanot.github.io/My_Portfolio/)  
 
 ## 🛠 Built With
 
@@ -23,6 +23,9 @@ Welcome to my personal portfolio website! This project showcases who I am, the t
 - *Projects* – Sample work with brief descriptions
 - *Contact Form* – Simple form to reach me
 - *Footer* – Social media and copyright
+
+  ## Portfolio Screenshot
+![Portfolio Screenshot](./portfolioscreenshot.png)
 
 ##  Features
 
